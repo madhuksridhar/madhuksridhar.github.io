@@ -11,7 +11,7 @@ author_profile: true
 {% include base_path %}
 
 **Sridhar, M.**, Kang, C., Landrum, D.B., Aono, H., Mathis, S.H., Lee, T., “Unconventionally high lift coefficients in Monarch butterflies at high-altitude conditions”, Bioinspiration & Biomimetics, Vol. 16, 034110, 2021, [<span style="color:CornflowerBlue">doi: 10.1088/1748-3190/abe10</span>](https://iopscience.iop.org/article/10.1088/1748-3190/abe108/meta)
-
+	   
 K. C., Tejaswi, **Sridhar, M.**, Kang, C., and Lee, T, “Effects of Abdomen Undulation in Energy Consumption and Stability for the Flights of Monarch Butterfly,” Bioinspiration & Biomimetics, Vol. 16, 046003, 2021, [<span style="color:CornflowerBlue">doi: 10.1088/1748-3190/abce4d</span>](https://iopscience.iop.org/article/10.1088/1748-3190/abce4d/meta) 
 
 Bluman, J. E., **Sridhar, M.**, and Kang, C. "Chordwise Wing Flexibility May Passively Stabilize Hovering Insects", Journal of Royal Society Interface, Vol. 15, pp. 20180409, 2018, [<span style="color:CornflowerBlue">doi: 10.1098/rsif.2018.0409</span>](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2018.0409) 
