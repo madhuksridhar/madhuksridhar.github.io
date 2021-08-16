@@ -9,6 +9,9 @@ main:
 
   - title: "Conference Proceedings"
     url: /conference/
-        
+
+  - title: "In News"
+    url: /news/
+	        
   - title: "CV"
     url: /cv/
