@@ -4,6 +4,12 @@ title:
 permalink: /conference/
 author_profile: true
 ---
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
 ## Conference Proceedings
 
 **Sridhar, M.**, Pohly, J. A., Kang, C., Landrum, D. B., Lee, T.Y., Aono, H. "Effects of Vein Structures on Fluid-structure Interaction of Flexible Flapping Wings at High Altitudes," AIAA 2021-0963, AIAA 2021 Scitech Forum Virtual Event, January 11-15 & 19-21, 2021
