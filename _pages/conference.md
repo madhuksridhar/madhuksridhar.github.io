@@ -4,6 +4,9 @@ title:
 permalink: /conference/
 author_profile: true
 ---
+
+## Conference Proceedings
+
 **Sridhar, M.**, Pohly, J. A., Kang, C., Landrum, D. B., Lee, T.Y., Aono, H. "Effects of Vein Structures on Fluid-structure Interaction of Flexible Flapping Wings at High Altitudes," AIAA 2021-0963, AIAA 2021 Scitech Forum Virtual Event, January 11-15 & 19-21 , 2021
 
 **Sridhar, M.**, Kang, C., Lee, T.Y. "Geometric Formulation for the Dynamics of Monarch Butterfly with the Effects of Abdomen Undulation," AIAA 2020-1962, AIAA 2020 Scitech Forum, Orlando, FL, January 6 - 10, 2020
@@ -36,4 +39,8 @@ Bluman, J. E., **Sridhar, M.**, and Kang, C., "The Influence of Wing Flexibility
 **Sridhar, M.** and Kang, C., "Effects of Flexible Wings in Hover Flight at Fruit Fly Scale" AIAA 2014-2311, AIAA Aviation, Atlanta, Georgia, June 16 - 20, 2014
 
 
-### Other Presentations
+## Other Presentations
+
+Kang,  C.,  **Sridhar, M.**, Landrum, D. B., Aono, H., "Effects of altitude on the climbing performance of Monarch butterflies", 69th Annual Meeting of the APS Division of Fluid Dynamics, November 20–22, 2016; Portland, Oregon 
+
+**Sridhar, M.**, Kang, C., Landrum, D. B., Mathis, S., "The Role of Coupled Wing-Body Dynamics on Power Consumption in Butterflies", 71st Annual Meeting of the APS Division of Fluid Dynamics, November 18–20, 2018, Atlanta, Georgia 
