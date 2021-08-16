@@ -5,8 +5,6 @@ permalink: /conference/
 author_profile: true
 ---
 
-## Conference Proceedings
-
 **Sridhar, M.**, Pohly, J. A., Kang, C., Landrum, D. B., Lee, T.Y., Aono, H. "Effects of Vein Structures on Fluid-structure Interaction of Flexible Flapping Wings at High Altitudes," AIAA 2021-0963, AIAA 2021 Scitech Forum Virtual Event, January 11-15 & 19-21 , 2021
 
 **Sridhar, M.**, Kang, C., Lee, T.Y. "Geometric Formulation for the Dynamics of Monarch Butterfly with the Effects of Abdomen Undulation," AIAA 2020-1962, AIAA 2020 Scitech Forum, Orlando, FL, January 6 - 10, 2020
