@@ -66,7 +66,7 @@ Work experience
   * Evaluated the capabilities of OpenFOAM applied to
     * External aerodynamics (High-Lift configurations)
     * Multiphase flows (sloshing)
-        * Combustion (SANDIA model flames)
+    * Combustion (SANDIA model flames)
 * Student Intern at MAN TURBO AG, Zurich, Switzerland (Mar 2009 - Sep 2009)
     * Developed a toolbox based on OpenFOAM for the optimization of stator blades.
     * Automated simulation chain from mesh generation to post processing using Python.
@@ -80,8 +80,8 @@ Awards & Honors
 Professional Memberships
 ======
 * American Institute for Aeronautics and Astronautics (AIAA)
-* American Physical Society
-* Sigma Gamma Tau
+* American Physical Society (APS)
+* Sigma Gamma Tau (SGT)
 
 
 
@@ -93,14 +93,3 @@ Skills
 * Visualization/Graphics: ParaView, Tecplot, Adobe Illustrator, Grace
 * Scientific/Other Tools: GNU/Linux, LaTeX, Git
 
-Publications
-======
-  <ul>{% for post in /publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Conference Proceedings
-======
-  <ul>{% for post in /conference %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
