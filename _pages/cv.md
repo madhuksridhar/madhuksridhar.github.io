@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can download my detailed CV [here]()
+<! -- You can download my detailed CV [here]()-->
 
 Education
 ======

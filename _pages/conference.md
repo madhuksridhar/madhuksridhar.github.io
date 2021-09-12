@@ -44,8 +44,9 @@ Bluman, J. E., **Sridhar, M.**, and Kang, C., "The Influence of Wing Flexibility
 
 ### Other Presentations
 
+**Sridhar, M.**, Kang, C., Landrum, D. B., Mathis, S., "The Role of Coupled Wing-Body Dynamics on Power Consumption in Butterflies", 71st Annual Meeting of the APS Division of Fluid Dynamics, November 18–20, 2018, Atlanta, Georgia 
+
 Kang,  C.,  **Sridhar, M.**, Landrum, D. B., Aono, H., "Effects of altitude on the climbing performance of Monarch butterflies", 69th Annual Meeting of the APS Division of Fluid Dynamics, November 20–22, 2016, Portland, Oregon 
 
-**Sridhar, M.**, Kang, C., Landrum, D. B., Mathis, S., "The Role of Coupled Wing-Body Dynamics on Power Consumption in Butterflies", 71st Annual Meeting of the APS Division of Fluid Dynamics, November 18–20, 2018, Atlanta, Georgia 
 
 <br />
