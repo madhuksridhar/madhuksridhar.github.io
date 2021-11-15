@@ -26,8 +26,12 @@ Kang, C., Cranford, J., **Sridhar, M.**, Kodali, D., Landrum, D. B., and Slegers
 
 ## In Preparation
 
+** Sridhar, M.**, Kang, C., and Landrum, D.B., "Instantaneous Lift and Motion Characteristics of Butterflies in Free Flight”
+
 **Sridhar, M.**, Kang, C., Landrum, D.B., Wahidi, R., Lang, A. and Wilroy, J. "Numerical Investigation of Effects of Experimental Environment on Vortex Formation in Low Reynolds Number Flows"
 
 **Sridhar, M.**, Kang, C., Landrum, D.B., Aono, H., Lee, T. "Effects of Alttiude on Fluid-structure interaction of chordwise flexible wings at Monarch Scale"
+
+** Sridhar, M.**, Twigg, R., Hildebrandt, N., Kang, C., Landrum, D.B. “Monarch Butterfly Wing Flexibility and its Effect on Flight Performance”
 
 <br />
