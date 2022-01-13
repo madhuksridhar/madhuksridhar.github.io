@@ -11,7 +11,9 @@ author_profile: true
 {% include base_path %}
 
 ## Conference Proceedings
-Morris, T. D, **Sridhar, M.**, Clark, T., Schulze, F., Kang, C., Landrum, D. B., Roh, K., Lee, T.Y., Aono, H. "Experimental Measurementsof the Wing Deformation and Force Production of Real and Bioinspired Artificial Monarch Butterfly Wings,"[<span style="color:CornflowerBlue">AIAA 2021-0308</span>](https://arc.aiaa.org/doi/10.2514/6.2022-0308), AIAA 2022 Scitech Forum, January 3-7, 2022
+<ol type="1">
+  <li>Morris, T. D, **Sridhar, M.**, Clark, T., Schulze, F., Kang, C., Landrum, D. B., Roh, K., Lee, T.Y., Aono, H. "Experimental Measurementsof the Wing Deformation and Force Production of Real and Bioinspired Artificial Monarch Butterfly Wings,"[<span style="color:CornflowerBlue">AIAA 2021-0308</span>](https://arc.aiaa.org/doi/10.2514/6.2022-0308), AIAA 2022 Scitech Forum, January 3-7, 2022
+</ol>
 
 **Sridhar, M.**, Pohly, J. A., Kang, C., Landrum, D. B., Lee, T.Y., Aono, H. "Effects of Vein Structures on Fluid-structure Interaction of Flexible Flapping Wings at High Altitudes," [<span style="color:CornflowerBlue">AIAA 2021-0963</span>](https://arc.aiaa.org/doi/10.2514/6.2021-0963), AIAA 2021 Scitech Forum Virtual Event, January 11-15 & 19-21, 2021
 
