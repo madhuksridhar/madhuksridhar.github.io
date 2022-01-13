@@ -12,13 +12,13 @@ author_profile: true
 
 ## Publications
 
-0. **Sridhar, M.**, Kang, C., and Landrum, D.B., "Instantaneous Lift and Motion Characteristics of Butterflies in Free Flight”
+0. **Sridhar, M.**, Kang, C., and Landrum, D.B., "Instantaneous Lift and Motion Characteristics of Butterflies in Free Flight”, In Preparation
 
-0. **Sridhar, M.**, Kang, C., Landrum, D.B., Wahidi, R., Lang, A. and Wilroy, J. "Numerical Investigation of Effects of Experimental Environment on Vortex Formation in Low Reynolds Number Flows"
+0. **Sridhar, M.**, Kang, C., Landrum, D.B., Wahidi, R., Lang, A. and Wilroy, J. "Numerical Investigation of Effects of Experimental Environment on Vortex Formation in Low Reynolds Number Flows", In Preparation
 
-0. **Sridhar, M.**, Kang, C., Landrum, D.B., Aono, H., Lee, T. "Effects of Alttiude on Fluid-structure interaction of chordwise flexible wings at Monarch Scale"
+0. **Sridhar, M.**, Kang, C., Landrum, D.B., Aono, H., Lee, T. "Effects of Alttiude on Fluid-structure interaction of chordwise flexible wings at Monarch Scale", In Preparation
 
-0. **Sridhar, M.**, Twigg, R., Hildebrandt, N., Kang, C., Landrum, D.B. “Monarch Butterfly Wing Flexibility and its Effect on Flight Performance”
+0. **Sridhar, M.**, Twigg, R., Hildebrandt, N., Kang, C., Landrum, D.B. “Monarch Butterfly Wing Flexibility and its Effect on Flight Performance”, In Preparation
 
 0. **Sridhar, M.**, Kang, C., Landrum, D.B., Aono, H., Mathis, S.H., Lee, T., “Effects of flight altitude on the lift generation of monarch butterflies: from sea level to overwintering mountain”, Bioinspiration & Biomimetics, Vol. 16, 034002, 2021, [<span style="color:CornflowerBlue">doi: 10.1088/1748-3190/abe10</span>](https://iopscience.iop.org/article/10.1088/1748-3190/abe108/meta)
 	   

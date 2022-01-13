@@ -42,7 +42,7 @@ author_profile: true
 0. **Sridhar, M.** and Kang, C., "Aerodynamic Performance of Flexible Flapping Wings at Bumblebee Scale in Hover Flight" [<span style="color:CornflowerBlue">AIAA 2015-0254</span>](https://arc.aiaa.org/doi/abs/10.2514/6.2015-0254), AIAA SciTech, Kissimmee, Florida, January 5 - 9, 2015
  
 0. **Sridhar, M.** and Kang, C., "Effects of Flexible Wings in Hover Flight at Fruit Fly Scale" [<span style="color:CornflowerBlue">AIAA 2014-2311</span>](https://arc.aiaa.org/doi/10.2514/6.2014-2311), AIAA Aviation, Atlanta, Georgia, June 16 - 20, 2014
-
+{: reversed="reversed"}
 ### Other Presentations
 
 0. **Sridhar, M.**, Kang, C., Landrum, D. B., Mathis, S., "The Role of Coupled Wing-Body Dynamics on Power Consumption in Butterflies", 71st Annual Meeting of the APS Division of Fluid Dynamics, November 18–20, 2018, Atlanta, Georgia 
