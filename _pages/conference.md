@@ -46,8 +46,8 @@ author_profile: true
 
 ### Other Presentations
 
-0. **Sridhar, M.**, Kang, C., Landrum, D. B., Mathis, S., "[<span style="color:CornflowerBlue">The Role of Coupled Wing-Body Dynamics on Power Consumption in Butterflies</span>(https://meetings.aps.org/Meeting/DFD18/Session/M19.4)", 71st Annual Meeting of the APS Division of Fluid Dynamics, November 18–20, 2018, Atlanta, Georgia 
+0. **Sridhar, M.**, Kang, C., Landrum, D. B., Mathis, S., "[<span style="color:CornflowerBlue">The Role of Coupled Wing-Body Dynamics on Power Consumption in Butterflies</span>](https://meetings.aps.org/Meeting/DFD18/Session/M19.4)", 71st Annual Meeting of the APS Division of Fluid Dynamics, November 18–20, 2018, Atlanta, Georgia 
 
-0. Kang,  C.,  **Sridhar, M.**, Landrum, D. B., Aono, H., "[<span style="color:CornflowerBlue">Effects of altitude on the climbing performance of Monarch butterflies</span>(https://meetings.aps.org/Meeting/DFD16/Session/M21.2)", 69th Annual Meeting of the APS Division of Fluid Dynamics, November 20–22, 2016, Portland, Oregon 
+0. Kang,  C.,  **Sridhar, M.**, Landrum, D. B., Aono, H., "[<span style="color:CornflowerBlue">Effects of altitude on the climbing performance of Monarch butterflies</span>](https://meetings.aps.org/Meeting/DFD16/Session/M21.2)", 69th Annual Meeting of the APS Division of Fluid Dynamics, November 20–22, 2016, Portland, Oregon 
 {: reversed="reversed"}
 <br />
