@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 
-* Ph.D in Mechanical Engineering, University of Alabama in Huntsville, (expected Dec 2021)
+* Ph.D in Mechanical Engineering, University of Alabama in Huntsville, 2021
   * Dissertation: Effects of Altitude on the Aerodynamic Performance of Monarch Butterflies
 * M.S. in Mechanical Engineering, University of Alabama in Huntsville, 2015
   * Thesis: Aerodynamics of flexible flapping wings in hover at fruit fly and bumblebee scales
